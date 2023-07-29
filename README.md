@@ -1,4 +1,4 @@
-#CodeClause_Building_a_Resume_Parser_Using_NLP_Spacy_and_Machine_Learning
+# CodeClause_Building_a_Resume_Parser_Using_NLP_Spacy_and_Machine_Learning
 
 ![image](https://github.com/2110030351/CodeClause_Building_a_Resume_Parser_Using_NLP-Spacy-_and_Machine_Learning/assets/109647212/648fd295-0771-4ffa-a1b7-9924930fa157)
 
